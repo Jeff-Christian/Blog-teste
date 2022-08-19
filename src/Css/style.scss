@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 
-@import 'sass/typograph';
+@import 'sass/typography';
 @import 'sass/colors';
+@import 'sass/spacing';
 
 body{
     background-color: #050607;
